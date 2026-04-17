@@ -1,4 +1,4 @@
-Set,Point 1,Latitude 1,Longitude 1,UTM ZONE,Spatial Resolution,Point 2,Latitude 2,Longitude 2,UTM ZONE,Spatial Resolution
+Set,Point 1,Latitude 1,Longitude 1,UTM ZONE 1,Spatial Resolution 1 (m),Point 2,Latitude 2,Longitude 2,UTM ZONE 2,Spatial Resolution2 (m)
 1,Tel-Hai,33.233,35.579,36,102.12,Kiryat Shmona,33.208,35.573,36,102.14
 2,Haifa,32.79411,34.98923,36,10.24,Tel-Aviv,32.085,34.781,36,102.72
 3,Jerusalem,31.768,35.213,36,102.89,Beer-Sheva,31.252,34.791,36,103.15
